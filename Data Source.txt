@@ -1,0 +1,24 @@
+Main dataset:
+
+https://github.com/owid/covid-19-data/tree/master/public/data
+
+
+***JSON DATA***
+
+main json dataset:
+
+https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.json
+
+sample json dataset:
+
+1.Afghanistan (AFG) sample:
+
+https://covidbd.000webhostapp.com/AFGsample.json
+
+2. Bangladesh (BGD) sample:
+
+https://covidbd.000webhostapp.com/BGDsample.json
+
+3.Large sample:
+
+https://covidbd.000webhostapp.com/LARGEsample.json
